@@ -44,16 +44,17 @@ Each mission folder contains its own README.md file.
 | VS Code | Code editing |
 | Terminal | File and folder management |
 | GitHub | Online repository hosting |
+| Homebrew | Package management |
 
 ## 5. Tool Versions
 
-- **Python:** ADD_PYTHON_VERSION
-- **Git:** ADD_GIT_VERSION
+- **Python:** 3.14.7
+- **Git:** 2.56.0
+- **Homebrew:** 7.0.12
+- **Operating System:** macOS 27.0.1 (Build 26A434)
 
 ## 6. Setup Difficulties and Solutions
 
 Initially, understanding multiline Terminal commands and the purpose of commands such as `mkdir`, `touch`, and `find` was challenging.
 
 I resolved these difficulties by learning the purpose and syntax of each command and verifying the created folder structure using `find . -print`.
-
-
