@@ -43,24 +43,42 @@ Each mission has its own folder and README file. Missions will be completed and 
 digital-detective-8541/
 ├── README.md
 ├── mission-00-setup/
+│   └── README.md
 ├── mission-01-computer-basics/
+│   └── README.md
 ├── mission-02-terminal/
+│   └── README.md
 ├── mission-03-operating-system/
+│   └── README.md
 ├── mission-04-programs/
+│   ├── README.md
+│   └── hello.py
 ├── mission-05-numbers-data/
 │   ├── README.md
 │   └── number_converter.py
 ├── mission-06-git-github/
+│   └── README.md
 ├── mission-07-networking/
+│   └── README.md
 ├── mission-08-final-report/
+│   └── README.md
 └── evidence/
+    ├── mission-00-setup/
+    ├── mission-01-computer-basics/
+    ├── mission-02-terminal/
+    ├── mission-03-operating-system/
+    ├── mission-04-programs/
+    ├── mission-05-numbers-data/
+    ├── mission-07-networking/
+    └── mission-08-final-report/
 ```
+
 
 ## Mission Completion
 
-Each mission will be documented in its respective folder. Work will be committed separately to maintain a clear Git history.
+Each mission is documented in its respective folder. Work will be committed separately to maintain a clear Git history.
 
-The `evidence/` folder will contain privacy-safe screenshots or selected outputs grouped by mission, where required.
+The `evidence/` folder contains privacy-safe screenshots or selected outputs grouped by mission, where required.
 
 ---
 
