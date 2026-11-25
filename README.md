@@ -4,11 +4,11 @@
 
 **Repository:** `digital-detective-8541`
 
-### About This Project
+## About This Project
 
-This repository contains my work for the Digital Detective Diwali Independent Learning Assignment. It is organised into eight missions covering computer fundamentals, terminal commands, operating systems, programming, number systems, Git and GitHub, and networking.
+This repository contains my work for the Digital Detective Diwali Independent Learning Assignment. It is organised into nine missions, numbered 00 to 08, covering computer fundamentals, terminal commands, operating systems, programming, number systems, Git and GitHub, and networking.
 
-Each mission has its own folder and README file. Missions will be completed and committed separately.
+Each mission has its own folder and README file documenting the tasks completed, concepts learned, difficulties faced, and evidence collected.
 
 ## Mission Index
 
@@ -24,18 +24,22 @@ Each mission has its own folder and README file. Missions will be completed and 
 | 07 | Networking | [Mission 07](mission-07-networking/README.md) |
 | 08 | Final Report | [Mission 08](mission-08-final-report/README.md) |
 
-##Tools & Technologies
+## Tools & Technologies
 
 - **Operating System:** macOS
 - **Programming Language:** Python
 - **Version Control:** Git
 - **Code Editor:** Visual Studio Code
 - **Repository Hosting:** GitHub
+- **Package Manager:** Homebrew
+- **Command-Line Interface:** macOS Terminal
 
-# Tool Versions
+## Tool Versions
 
-- Python: `Python 3.14.7`
-- Git: `git version 2.56.0`
+- **Python:** 3.14.7
+- **Git:** 2.56.0
+- **Homebrew:** 7.0.12
+- **Operating System:** macOS 27.0.1 (Build 26A434)
 
 ## Repository Structure
 
@@ -73,12 +77,35 @@ digital-detective-8541/
     └── mission-08-final-report/
 ```
 
+## Running the Number Converter
+
+The project includes a Python program that converts a decimal number into binary and hexadecimal representations.
+
+To run it, open Terminal in the repository folder and execute:
+
+```bash
+python3 mission-05-numbers-data/number_converter.py
+```
+
+Enter a decimal number when prompted. The program displays its decimal, binary, and hexadecimal representations.
 
 ## Mission Completion
 
-Each mission is documented in its respective folder. Work will be committed separately to maintain a clear Git history.
+All nine missions have been completed and documented in their respective folders. The work was organised and committed using Git to maintain a clear version history.
 
-The `evidence/` folder contains privacy-safe screenshots or selected outputs grouped by mission, where required.
+The `evidence/` folder contains screenshots and selected outputs grouped by mission.
+
+The Mission 06 Pull Request screenshot and `about.txt` file are available on the `update-about` branch. The Mission 06 README is also available on `main`.
+
+## GitHub Pull Request
+
+- **Pull Request:** [Add about file #1](https://github.com/rajnishpathak-sketch/digital-detective-8541/pull/1)
+- **Base Branch:** `main`
+- **Compare Branch:** `update-about`
+- **Status:** Open
+- **Merge Status:** Not merged
+
+The Pull Request is intentionally kept open and unmerged to demonstrate the GitHub Pull Request workflow.
 
 ---
 
