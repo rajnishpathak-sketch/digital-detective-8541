@@ -62,6 +62,22 @@ Each mission will be documented in its respective folder. Work will be committed
 
 The `evidence/` folder will contain privacy-safe screenshots or selected outputs grouped by mission, where required.
 
+
+
+
+## GitHub Pull Request Status
+
+As part of Mission 6, I created a separate branch named `update-about` and opened a Pull Request.
+
+- **Pull Request:** [Add about file #1](https://github.com/rajnishpathak-sketch/digital-detective-8541/pull/1)
+- **Status:** Open
+- **Base branch:** main
+- **Compare branch:** update-about
+- **Commits:** 3
+- **Merge status:** Not merged
+
+The Pull Request remains open for review, as required by the assignment.
+
 ---
 
 **Project:** Digital Detective  
