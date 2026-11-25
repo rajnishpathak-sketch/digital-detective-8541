@@ -90,6 +90,13 @@ Other important project files:
 - `mission-05-numbers-data/number_converter.py`
 - Individual README files for all missions
 
+**Branch information:**
+
+- The evidence screenshots for Missions 00–05 and 07–08 are available on the `main` branch.
+- The Mission 06 Pull Request screenshot is available on the `update-about` branch.
+- The `about.txt` file is also available on the `update-about` branch.
+- The Mission 06 README is available on both branches.
+
 ## 9. Commit Details
 
 - **Branch:** `update-about`
@@ -101,4 +108,6 @@ Other important project files:
 - **Pull Request status:** Open
 - **Merge status:** Not merged
 
-The final report and evidence screenshots have been committed and pushed to the `update-about` branch. The Pull Request is intentionally kept open and unmerged as required by the assignment.g
+The Mission 08 report and the corresponding repository updates are available on the `main` branch. The Mission 06 `about.txt` file and Pull Request evidence remain on the `update-about` branch.
+
+The Pull Request from `update-about` to `main` is intentionally kept open and unmerged to demonstrate the GitHub Pull Request workflow.
