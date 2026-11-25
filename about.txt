@@ -1,0 +1,9 @@
+# About Me
+
+My name is Rajnish.
+
+I am a first-year B.Tech AI/ML student at Newton School of Technology.
+
+I am learning programming, Python, C++, Git and GitHub.
+
+My goal is to become a skilled software engineer and build useful projects.
